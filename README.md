@@ -1,4 +1,3 @@
-#new
 
-Sahar MahmoudiMotlagh
-Aixin Zhong
+# Project name: midterm
+goup members: Sahar MahmoudiMotlagh, Aixin Zhong
